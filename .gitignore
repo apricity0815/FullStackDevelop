@@ -1,2 +1,23 @@
+# dependencies
 /zero-to-tech/node_modules
+
+# next.js
+/zero-to-tech/.next/
+/zero-to-tech/out/
+
+# production
+/zero-to-tech/build/
 /zero-to-tech/dist
+
+
+
+
+
+# editor
+.vscode/*
+!.vscode/extensions.json
+
+# misc
+.DS_Store
+*.log
+.env*
