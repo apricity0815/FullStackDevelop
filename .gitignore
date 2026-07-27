@@ -10,7 +10,8 @@
 /zero-to-tech/dist
 
 
-
+#python虚拟环境
+/zero-to-tech/backend/.venv
 
 
 # editor
