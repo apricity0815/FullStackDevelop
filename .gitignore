@@ -22,3 +22,7 @@
 .DS_Store
 *.log
 .env*
+
+/zero-to-tech/backend/__pycache__/
+
+*.pyc
